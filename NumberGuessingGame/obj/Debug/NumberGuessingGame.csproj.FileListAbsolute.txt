@@ -1,0 +1,9 @@
+c:\users\nicolas\documents\visual studio 2015\Projects\NumberGuessingGame\NumberGuessingGame\bin\Debug\NumberGuessingGame.exe.config
+c:\users\nicolas\documents\visual studio 2015\Projects\NumberGuessingGame\NumberGuessingGame\bin\Debug\NumberGuessingGame.exe
+c:\users\nicolas\documents\visual studio 2015\Projects\NumberGuessingGame\NumberGuessingGame\bin\Debug\NumberGuessingGame.pdb
+c:\users\nicolas\documents\visual studio 2015\Projects\NumberGuessingGame\NumberGuessingGame\obj\Debug\NumberGuessingGame.Form1.resources
+c:\users\nicolas\documents\visual studio 2015\Projects\NumberGuessingGame\NumberGuessingGame\obj\Debug\NumberGuessingGame.Properties.Resources.resources
+c:\users\nicolas\documents\visual studio 2015\Projects\NumberGuessingGame\NumberGuessingGame\obj\Debug\NumberGuessingGame.csproj.GenerateResource.Cache
+c:\users\nicolas\documents\visual studio 2015\Projects\NumberGuessingGame\NumberGuessingGame\obj\Debug\NumberGuessingGame.exe
+c:\users\nicolas\documents\visual studio 2015\Projects\NumberGuessingGame\NumberGuessingGame\obj\Debug\NumberGuessingGame.pdb
+c:\users\nicolas\documents\visual studio 2015\Projects\NumberGuessingGame\NumberGuessingGame\obj\Debug\NumberGuessingGame.csprojResolveAssemblyReference.cache
