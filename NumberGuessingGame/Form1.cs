@@ -17,6 +17,10 @@ namespace NumberGuessingGame
         private const int OFFSET = 1;
         private const string HIGHER = "Higher!";
         private const string LOWER = "Lower!";
+        private const string INVALID_INPUT = "Invalid input. Try entering a number.";
+        private const string CONGRATS_MESSAGE = "Congratulations! You won!\nWould you like to play again?";
+        private const string NUM_OUT_OF_RANGE = "Number out of range. Try a number between 1-100.";
+        private const string RESTART = "Restart Game";
         private int userGuess;
         private int attemps = 0;
         private int games = 1;
@@ -40,7 +44,7 @@ namespace NumberGuessingGame
             {
                 if (userGuess < 1 || userGuess > 100)
                 {
-                    MessageBox.Show("Number out of range. Try a number between 1-100.");
+                    MessageBox.Show(NUM_OUT_OF_RANGE);
                 }
                 else if (userGuess < secretNumber)
                 {
@@ -54,7 +58,7 @@ namespace NumberGuessingGame
                     attemptsValueLabel.Text = attemps.ToString();
                     hintValueLabel.Text = LOWER;
                 }
-                else if (MessageBox.Show("Congratulation! You won!\nWould you like to play again?", "Restart Game", MessageBoxButtons.OKCancel, MessageBoxIcon.Question) == DialogResult.OK)
+                else if (MessageBox.Show(CONGRATS_MESSAGE, RESTART, MessageBoxButtons.OKCancel, MessageBoxIcon.Question) == DialogResult.OK)
                 {
                     attemps = 0;
                     attemptsValueLabel.Text = "";
@@ -71,7 +75,7 @@ namespace NumberGuessingGame
             }
             else if (guessTextBox.Text != "")
             {
-                MessageBox.Show("Invalid input. Try entering a number.");
+                MessageBox.Show(INVALID_INPUT);
             }
             else
             {
