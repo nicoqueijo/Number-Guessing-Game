@@ -12,7 +12,6 @@ namespace NumberGuessingGame
 {
     public partial class Form1 : Form
     {
-
         private const int MAX_NUMBER = 100;
         private const int OFFSET = 1;
         private const string HIGHER = "Higher!";
