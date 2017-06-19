@@ -7,3 +7,12 @@ c:\users\nicolas\documents\visual studio 2015\Projects\NumberGuessingGame\Number
 c:\users\nicolas\documents\visual studio 2015\Projects\NumberGuessingGame\NumberGuessingGame\obj\Debug\NumberGuessingGame.exe
 c:\users\nicolas\documents\visual studio 2015\Projects\NumberGuessingGame\NumberGuessingGame\obj\Debug\NumberGuessingGame.pdb
 c:\users\nicolas\documents\visual studio 2015\Projects\NumberGuessingGame\NumberGuessingGame\obj\Debug\NumberGuessingGame.csprojResolveAssemblyReference.cache
+C:\Users\nicoq\Documents\Visual Studio 2017\Projects\NumberGuessingGame\NumberGuessingGame\bin\Debug\NumberGuessingGame.exe.config
+C:\Users\nicoq\Documents\Visual Studio 2017\Projects\NumberGuessingGame\NumberGuessingGame\bin\Debug\NumberGuessingGame.exe
+C:\Users\nicoq\Documents\Visual Studio 2017\Projects\NumberGuessingGame\NumberGuessingGame\bin\Debug\NumberGuessingGame.pdb
+C:\Users\nicoq\Documents\Visual Studio 2017\Projects\NumberGuessingGame\NumberGuessingGame\obj\Debug\NumberGuessingGame.csprojResolveAssemblyReference.cache
+C:\Users\nicoq\Documents\Visual Studio 2017\Projects\NumberGuessingGame\NumberGuessingGame\obj\Debug\NumberGuessingGame.Form1.resources
+C:\Users\nicoq\Documents\Visual Studio 2017\Projects\NumberGuessingGame\NumberGuessingGame\obj\Debug\NumberGuessingGame.Properties.Resources.resources
+C:\Users\nicoq\Documents\Visual Studio 2017\Projects\NumberGuessingGame\NumberGuessingGame\obj\Debug\NumberGuessingGame.csproj.GenerateResource.Cache
+C:\Users\nicoq\Documents\Visual Studio 2017\Projects\NumberGuessingGame\NumberGuessingGame\obj\Debug\NumberGuessingGame.exe
+C:\Users\nicoq\Documents\Visual Studio 2017\Projects\NumberGuessingGame\NumberGuessingGame\obj\Debug\NumberGuessingGame.pdb
