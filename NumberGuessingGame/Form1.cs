@@ -85,7 +85,8 @@ namespace NumberGuessingGame
                     attemptsValueLabel.Text = attemps.ToString();
                     hintValueLabel.Text = LOWER;
                 }
-                else if (MessageBox.Show(CONGRATS_MESSAGE, RESTART, MessageBoxButtons.OKCancel, MessageBoxIcon.Question) == DialogResult.OK)
+                else if (MessageBox.Show(CONGRATS_MESSAGE, RESTART, MessageBoxButtons.OKCancel,
+                    MessageBoxIcon.Question) == DialogResult.OK)
                 {
                     attemps = 0;
                     attemptsValueLabel.Text = "";
