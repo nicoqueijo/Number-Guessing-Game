@@ -19,6 +19,7 @@ namespace NumberGuessingGame
 {
     public partial class Form1 : Form
     {
+        private const int MIN_NUMBER = 1;
         private const int MAX_NUMBER = 100;
         private const int OFFSET = 1;
         private const string HIGHER = "Higher!";
@@ -69,7 +70,7 @@ namespace NumberGuessingGame
         {
             if (int.TryParse(guessTextBox.Text, out userGuess))
             {
-                if (userGuess < 1 || userGuess > 100)
+                if (userGuess < MIN_NUMBER || userGuess > MAX_NUMBER)
                 {
                     MessageBox.Show(NUM_OUT_OF_RANGE);
                 }
