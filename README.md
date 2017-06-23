@@ -9,3 +9,6 @@ The user will continue entering numbers until finding the solution. When this ha
 will show a congratulation message and ask whether a new game should be started. If the user chooses
 “Yes”, then the number of games will be incremented, the number of tries will be set to 0, and a new
 secret number will be generated. If the user selects “No”, the program will exit.
+
+![](screenshots/screenshot1.PNG "Game in progress")
+![](screenshots/screenshot2.PNG "Game won")
